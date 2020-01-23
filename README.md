@@ -27,4 +27,4 @@ More information regarding the proposed schemes and their preprocessing are avai
 ## Live Classifier Demo
 A demo software was built to test the classifiers using live data coming from smartphones. The application is written in Matlab and imports the pre-trained Keras models. [_Matlab Mobile App_](https://www.mathworks.com/products/matlab-mobile.html) is required to be installed in the smartphone.
 
-__The code will be uploaded soon!__
+__The code will be uploaded soon !__
